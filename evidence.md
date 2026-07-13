@@ -437,3 +437,9 @@
 - 结论：与 WLF 反目互诉：孙指控其冻结代币，WLF 反诉诽谤并指控做空与代持
 - 类型：双方指控 ｜ 等级：二手
 - 来源：https://fortune.com/2026/05/04/trump-world-liberty-financial-countersuit-justin-sun-defamation-allegations-of-fraud/ (2026-05)
+
+### E-071
+- 结论：明确反对公务员/国企路径
+- 类型：主张(claim) ｜ 等级：直接
+- 摘录："我是絕對不推薦任何人進公務員和國企"
+- 来源：13-009 (专栏009期)
